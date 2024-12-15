@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.CV {
+  font-size: 30px;
+}
+
+.bottom {
+  font-size: 25px;
+}
+
+.human {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 5px;
+}
+
+.purple {
+  background-color: rgb(187, 119, 250);
+}
+
+.really-end {
+  width: 80px;
+  height: 50px;
+  margin: 15px 580px 15px;
+  background-color: rgb(0, 166, 255);
+  border: none;
+  border-radius: 8px;
+}
+.really-end a {
+  color: indigo;
+  font-weight: bold;
+  text-decoration: none;
+}
