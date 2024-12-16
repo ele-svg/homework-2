@@ -32,7 +32,8 @@
 .really-end {
   width: 80px;
   height: 50px;
-  margin: 15px 580px 15px;
+  padding: 10px 20px;
+  margin: 15px 800px;
   background-color: rgb(0, 166, 255);
   border: none;
   border-radius: 8px;
